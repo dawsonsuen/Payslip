@@ -1,0 +1,12 @@
+/Users/uncharted/Desktop/lianxi/lianxi/bin/Debug/lianxi.exe
+/Users/uncharted/Desktop/lianxi/lianxi/bin/Debug/lianxi.pdb
+/Users/uncharted/Desktop/lianxi/lianxi/obj/x86/Debug/lianxi.csprojResolveAssemblyReference.cache
+/Users/uncharted/Desktop/lianxi/lianxi/obj/x86/Debug/lianxi.csproj.CoreCompileInputs.cache
+/Users/uncharted/Desktop/lianxi/lianxi/obj/x86/Debug/lianxi.exe
+/Users/uncharted/Desktop/lianxi/lianxi/obj/x86/Debug/lianxi.pdb
+/Users/uncharted/Payslip/lianxi/bin/Debug/lianxi.exe
+/Users/uncharted/Payslip/lianxi/bin/Debug/lianxi.pdb
+/Users/uncharted/Payslip/lianxi/obj/x86/Debug/lianxi.csprojResolveAssemblyReference.cache
+/Users/uncharted/Payslip/lianxi/obj/x86/Debug/lianxi.csproj.CoreCompileInputs.cache
+/Users/uncharted/Payslip/lianxi/obj/x86/Debug/lianxi.exe
+/Users/uncharted/Payslip/lianxi/obj/x86/Debug/lianxi.pdb
